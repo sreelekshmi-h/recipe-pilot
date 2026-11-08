@@ -331,7 +331,8 @@ Video demonstration of RecipePilot running locally:
 
 [Watch RecipePilot Demo](https://youtu.be/nH6msVJ7EX8)
 
-Frontend link:(demonstration only):[link](https://recipe-pilot.streamlit.app)
+Frontend link:[link](https://recipe-pilot.streamlit.app)
+Backend link:[link](https://recipe-pilot-production-885a.up.railway.app)
 
 ---
 
