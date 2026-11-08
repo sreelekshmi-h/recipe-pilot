@@ -330,7 +330,9 @@ The RecipePilot application will open in your browser.
 Video demonstration of RecipePilot running locally:
 
 [Watch RecipePilot Demo](https://youtu.be/nH6msVJ7EX8)
+
 ##Hosted URLS
+
 Frontend link:[link](https://recipe-pilot.streamlit.app)
 
 Backend link:[link](https://recipe-pilot-production-885a.up.railway.app)
